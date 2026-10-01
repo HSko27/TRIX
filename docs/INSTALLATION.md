@@ -2,7 +2,7 @@
 
 ## Stažení
 
-Otevři [nejnovější vydání](https://github.com/HSko27/TRIX/releases/latest) a v Assets vyber `TRIX-0.6.0-beta-macOS-arm64.zip`. Tlačítko Code → Download ZIP stahuje pouze zdrojový projekt, nikoli hotovou aplikaci.
+Otevři [vydání 0.6.0 beta](https://github.com/HSko27/TRIX/releases/tag/v0.6.0-beta) a v Assets vyber `TRIX-0.6.0-beta-macOS-arm64.zip`. Tlačítko Code → Download ZIP stahuje pouze zdrojový projekt, nikoli hotovou aplikaci.
 
 Rozbal instalační ZIP a přetáhni `TRIX AI.app` do Aplikací. Velké runtimy jsou přibalené; aplikaci můžeš používat bez vývojového projektu.
 
