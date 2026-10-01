@@ -1,0 +1,14 @@
+.DS_Store
+.build/
+dist/
+work/
+__pycache__/
+*.pyc
+*.zip
+*.app/
+.env
+.env.*
+*.wav
+*.bin
+*.onnx
+*.safetensors
