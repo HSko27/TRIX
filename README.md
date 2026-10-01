@@ -6,7 +6,7 @@
 
 macOS 14+ · Apple Silicon · lokální modely · 0.6.0 beta
 
-[Stažení aplikace](https://github.com/HSko27/TRIX/releases/latest) · [Instalace](#instalace) · [Co TRIX umí](#co-trix-umí) · [Pro vývojáře](docs/DEVELOPMENT.md)
+[Stažení aplikace](https://github.com/HSko27/TRIX/releases/tag/v0.6.0-beta) · [Instalace](#instalace) · [Co TRIX umí](#co-trix-umí) · [Pro vývojáře](docs/DEVELOPMENT.md)
 
 ![Ilustrační produktový vizuál MacBooku s fialovou září kolem notche](docs/assets/trix-hero.png)
 
@@ -44,7 +44,7 @@ Zkus například:
 
 ## Instalace
 
-1. V [Releases](https://github.com/HSko27/TRIX/releases/latest) stáhni **TRIX-0.6.0-beta-macOS-arm64.zip**. ZIP má přibližně **1,2 GB**.
+1. V [Releases](https://github.com/HSko27/TRIX/releases/tag/v0.6.0-beta) stáhni **TRIX-0.6.0-beta-macOS-arm64.zip**. ZIP má přibližně **1,2 GB**.
 2. Rozbal ho a přetáhni **TRIX AI.app** do složky **Aplikace**.
 3. Spusť TRIX. Tato beta má **ad hoc podpis, bez Apple Developer ID a notarizace**. macOS ji může zablokovat jako software neověřeného vývojáře. Pokud se nespustí, podívej se na [řešení potíží](docs/INSTALLATION.md#macos-aplikaci-zablokoval).
 4. Přejeď kurzorem na notch a zvol **Stáhnout a připravit model**. První nastavení vyžaduje internet a stáhne Qwen3.5:9b, přibližně **6–7 GB**. Průběh uvidíš v panelu.
