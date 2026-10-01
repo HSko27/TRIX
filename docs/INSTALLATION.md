@@ -18,6 +18,8 @@ Rozbal instalační ZIP a přetáhni `TRIX AI.app` do Aplikací. Velké runtimy 
 
 Toto vydání má pouze ad hoc podpis a není notarizované Applem. macOS může spuštění stažené aplikace zablokovat. TRIX sama nevypíná ochrany systému. Nejde o vydání v App Storu ani software ověřený Applem. Pokud beta verzi nechceš spouštět, počkej na vydání s Developer ID a notarizací. Samotný SHA-256 nepotvrzuje důvěryhodnost autora.
 
+Pokud se rozhodneš tuto neověřenou beta verzi spustit a macOS tuto možnost nabídne, po pokusu o spuštění otevři **Nastavení systému → Soukromí a zabezpečení → Přesto otevřít** a potvrď dialog. Jde o ruční výjimku pro konkrétní aplikaci, kterou volíš ty. [Oficiální postup a vysvětlení Apple](https://support.apple.com/cs-cz/102445).
+
 ## Kontrola ZIPu
 
 Z téhož vydání stáhni `SHA256SUMS.txt` do stejné složky jako ZIP. V Terminálu přejdi do této složky a spusť:
